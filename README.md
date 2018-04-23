@@ -1,0 +1,2 @@
+# Workshop1
+This was my first Python assignment. I made a program that waits for the user to click and then makes a circle around where the user clicked. I then made a program that does the same thing but with a square. My last program draws a square and waits for the user to click. If the user clicks on the top half of the screen, the square will move up. If the user clicks on the bottom half of the screen, the square will move down.
